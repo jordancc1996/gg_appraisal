@@ -367,15 +367,15 @@ function App() {
               <div className="space-y-4">
                 <div className="flex items-center">
                   <Phone className="w-5 h-5 text-green-600 mr-3" />
-                  <span>(215) 555-0123</span>
+                  <span>(267) 632-3162</span>
                 </div>
                 <div className="flex items-center">
                   <Mail className="w-5 h-5 text-green-600 mr-3" />
-                  <span>info@ggappraisals.com</span>
+                  <span>jordancchaplin@gmail.com</span>
                 </div>
                 <div className="flex items-center">
                   <MapPin className="w-5 h-5 text-green-600 mr-3" />
-                  <span>Serving Philadelphia, Delaware County, and Montgomery County</span>
+                  <span>Serving Philadelphia, Delaware County, Montgomery County and Maricopa County</span>
                 </div>
               </div>
               
