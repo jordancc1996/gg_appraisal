@@ -252,11 +252,11 @@ function App() {
             </p>
             <div className="grid md:grid-cols-2 gap-8 mb-8">
               <div className="text-center">
-                <img src="/api/placeholder/400/300" alt="Downtown Phoenix, Arizona" className="rounded-lg mb-4 w-full h-48 object-cover" />
+                <img src="/phoenix arizona.jpg" alt="Downtown Phoenix, Arizona" className="rounded-lg mb-4 w-full h-48 object-cover" />
                 <p className="text-sm text-gray-500">Downtown Phoenix, Arizona</p>
               </div>
               <div className="text-center">
-                <img src="/api/placeholder/400/300" alt="Downtown Philadelphia, Pennsylvania" className="rounded-lg mb-4 w-full h-48 object-cover" />
+                <img src="/philadelphia pa.jpg" alt="Downtown Philadelphia, Pennsylvania" className="rounded-lg mb-4 w-full h-48 object-cover" />
                 <p className="text-sm text-gray-500">Downtown Philadelphia, Pennsylvania</p>
               </div>
             </div>
