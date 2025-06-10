@@ -136,7 +136,7 @@ function App() {
                 <a href="#contact" className="text-gray-900 hover:text-green-600 px-3 py-2 text-sm font-medium">Contact</a>
               </div>
             </div>
-            <Button className="bg-green-600 hover:bg-green-700">Get Started</Button>
+            <Button className="bg-green-600 hover:bg-green-700" onClick={() => document.getElementById('contact')?.scrollIntoView({ behavior: 'smooth' })}>Get Started</Button>
           </div>
         </div>
       </nav>
